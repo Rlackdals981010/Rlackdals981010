@@ -1,5 +1,5 @@
 ![kcm](https://github.com/user-attachments/assets/66d2821d-6ccb-4c52-90ea-415c2f7085a2)
-## 처음 뵙겠습니다. 안녕하세요? 👋
+## 처음 뵙겠습니다. 안녕하세요?
 
 
 🐢  기어서라도 가는 백엔드 주니어 개발자입니다. 🐇
