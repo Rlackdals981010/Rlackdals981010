@@ -2,7 +2,7 @@
 ## 처음 뵙겠습니다. 안녕하세요? 👋
 
 
-🌿 기어서라도 가는 백엔드 주니어 개발자입니다. 🌿
+🐢  기어서라도 가는 백엔드 주니어 개발자입니다. 🐇
 
 ### 📬 Contact
 [![Email Button](https://img.shields.io/badge/ksjchm4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksjchm4@gmail.com) [![Portfolio Button](https://img.shields.io/badge/김창민의_Portfolio-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)](https://rlackdals.notion.site/1bbf05376b354c6dbbd56eb98544b297?pvs=4)
