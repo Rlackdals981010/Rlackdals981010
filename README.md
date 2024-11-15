@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**Rlackdals981010/Rlackdals981010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  자기소개
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Email : ksjchm4@gmail.com
+  Portfolio : ![]()
+  Blog :
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  언어
+</p>
+
+<p align="center">
+  프레임 워크
+</p>
+
+<p align="center">
+  DB
+</p>
+
+<p align="center">
+  Deploy
+</p>
+
+
+
+
